@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.c798cf63.css",
+    "main.js": "/react-gh-pages/static/js/main.c5602e04.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/react-gh-pages/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/hero_image.png": "/react-gh-pages/static/media/hero_image.d7b85ddd009b6d3824fd.png",
+    "static/media/product_13.png": "/react-gh-pages/static/media/product_13.0245d187d2f94f5ba120.png",
+    "static/media/prof3.png": "/react-gh-pages/static/media/prof3.ec0128e3c964a6f8c267.png",
+    "static/media/product_3.png": "/react-gh-pages/static/media/product_3.80377e0f0309604fe077.png",
+    "static/media/banner_finance.png": "/react-gh-pages/static/media/banner_finance.cd975f0fd5841b69727f.png",
+    "static/media/banner_coding.png": "/react-gh-pages/static/media/banner_coding.ee2a69ecb77740695985.png",
+    "static/media/product_5.png": "/react-gh-pages/static/media/product_5.f56b99524c8c3bef934d.png",
+    "static/media/product_7.png": "/react-gh-pages/static/media/product_7.8a6fc0a24a800d1e0f4a.png",
+    "static/media/exclusive_image.png": "/react-gh-pages/static/media/exclusive_image.f881daacc658620c3408.png",
+    "static/media/product_1.png": "/react-gh-pages/static/media/product_1.e611bd005d8d006f3809.png",
+    "static/media/logo.png": "/react-gh-pages/static/media/logo.285da3704aeb721af7a1.png",
+    "static/media/product_4.png": "/react-gh-pages/static/media/product_4.89717dd0a1fe53d4fe94.png",
+    "static/media/product_10.png": "/react-gh-pages/static/media/product_10.a2bf99af7508533ccb6b.png",
+    "static/media/product_6.png": "/react-gh-pages/static/media/product_6.d32dabf27c43fae49afe.png",
+    "static/media/product_9.png": "/react-gh-pages/static/media/product_9.aba6a788b4bd7b0a0637.png",
+    "static/media/banner_maths.png": "/react-gh-pages/static/media/banner_maths.7819670911eca2e42540.png",
+    "static/media/product_2.png": "/react-gh-pages/static/media/product_2.efb4dbc4845ef8a3a326.png",
+    "static/media/prof2.png": "/react-gh-pages/static/media/prof2.82c753ef840340beaea5.png",
+    "static/media/star_dull_icon.png": "/react-gh-pages/static/media/star_dull_icon.ff4c1116dcab7ec9c4e7.png",
+    "static/media/product_8.png": "/react-gh-pages/static/media/product_8.aeebcc969e9eb20fcaa9.png",
+    "static/media/product_11.png": "/react-gh-pages/static/media/product_11.9abb470bd3a3e2290e39.png",
+    "static/media/product_12.png": "/react-gh-pages/static/media/product_12.507671be1799d106a1e6.png",
+    "static/media/banner_guitar.png": "/react-gh-pages/static/media/banner_guitar.b3a96b925a99ee85a05f.png",
+    "static/media/arrow.png": "/react-gh-pages/static/media/arrow.d71c9f7ca09a239a6ef6.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.c798cf63.css.map": "/react-gh-pages/static/css/main.c798cf63.css.map",
+    "main.c5602e04.js.map": "/react-gh-pages/static/js/main.c5602e04.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/react-gh-pages/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c798cf63.css",
+    "static/js/main.c5602e04.js"
+  ]
+}
